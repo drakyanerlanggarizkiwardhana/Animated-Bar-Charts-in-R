@@ -1,1 +1,0 @@
-# Animated-Bar-Charts-in-R
