@@ -1,4 +1,4 @@
-# animated_bar_charts_in_R
+# Animated Bar Charts in R
 
 The goal of this project is explain how to build Animated Bar Charts in R (which is kinda trending on Social Media these days)
 
